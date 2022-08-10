@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>bg.jpg</file>
+    <file>vedio2.png</file>
+    <file>vedio_rec.png</file>
+    <file>vedio.png</file>
+    <file>shut_v.png</file>
+    <file>maskIcon.png</file>
+    <file>img_rec.png</file>
+  </qresource>
+</RCC>
